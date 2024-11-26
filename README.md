@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @neoneoci
 - 👀 I’m interested in tennis
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on open projects
 - 📫 How to reach me is a matter of time:)
 
